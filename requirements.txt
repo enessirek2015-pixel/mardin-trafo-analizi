@@ -4,4 +4,6 @@ folium
 streamlit-folium
 scipy
 numpy
+networkx
+plotly
 openpyxl
